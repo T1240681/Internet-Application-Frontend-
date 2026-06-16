@@ -1,6 +1,7 @@
 Watch the project demo video here: https://youtu.be/6y4PmyJR6Ko
 
 INTERNET APPLICATION
+
 A responsive web application developed using HTML, CSS, and JavaScript with JSON data as part of my Internet Application coursework. The project demonstrates front-end web development skills, page navigation, styling, media content, and interactive features.
 
 FEATURES
